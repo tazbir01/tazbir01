@@ -1,6 +1,7 @@
 ![cover photo](assets/cover1.png)
 
-
+### Hello!
+I'm Md. Tazbir Hosen, an aspiring web developer in the early stages of my journey. I've been actively working with technologies like React, MongoDB, Express, and JavaScript, gaining hands-on experience and eager to continue learning and growing in the dynamic field of web development.
 
 📈 Current Stats
 ---
